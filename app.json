@@ -4,7 +4,7 @@
   "description": "Imperial-X, A modular advanced wabot",
   "logo": "https://i.imgur.com/FA4odgj.jpeg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
+  "repository": "https://github.com/ImperialXofc/XLICON-V3-MD",
   "stack": "container",
   "env": {
     "SUDO": {
@@ -20,12 +20,12 @@
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "HRKU-d7f15457-f6d0-4f5b-b55b-1d394f93d2ec"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "imperialx"
     },
     "PREFIX": {
       "description": "Set Your Prefix Here",
@@ -35,17 +35,17 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "Imperial-X"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "☮️Imperial-X | Zenith Sol⚡"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "Made By Zenith Sol"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
